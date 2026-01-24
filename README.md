@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Brahmpreet+Singh;Aspiring+Open+Source+Contributor;Preparing+for+GSSoC+2026" />
-</p>
-
-
-<h3 align="center">Aspiring Open Source Contributor | Preparing for GSSoC 2026</h3>
+<h1 align="center">Hi 👋, I'm Brahmpreet Singh</h1>
+<h3 align="center">
+Engineering Student | Open Source Learner | AI/ML Enthusiast
+</h3>
 
 <p align="center">
   <a href="https://github.com/Brahmpreett">
@@ -18,15 +16,15 @@
 
 ### 🔭 I’m currently working on
 - Building a strong open-source foundation  
-- Making consistent GitHub contributions  
+- Making consistent and meaningful GitHub contributions  
 
 ### 🌱 I’m currently learning about
 - Artificial Intelligence & Machine Learning  
-- Git, GitHub & open-source workflows  
+- Git, GitHub, and open-source workflows  
 
 ### 👯 I’m looking to collaborate on
 - Beginner-friendly open-source projects  
-- Python, documentation & web-based repositories  
+- Python, documentation, and web-based repositories  
 
 ### 🤔 I’m looking for help with
 - Writing clean and effective pull requests  
@@ -47,9 +45,9 @@
 </p>
 
 ### 😄 Pronouns
-- He/Him  
+- He / Him  
 
-### ⚡ Fun facts
+### ⚡ Fun fact
 - Plays chess  
 - Solves a Rubik’s Cube in under a minute  
 - Learning Russian as a fourth language  
