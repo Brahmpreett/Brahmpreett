@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Brahmpreet+Singh" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Brahmpreet+Singh;Aspiring+Open+Source+Contributor;Preparing+for+GSSoC+2026" />
 </p>
+
 
 <h3 align="center">Aspiring Open Source Contributor | Preparing for GSSoC 2026</h3>
 
