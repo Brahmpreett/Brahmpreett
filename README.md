@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Brahmpreet</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Brahmpreet+Singh" />
+</p>
+
 <h3 align="center">Aspiring Open Source Contributor | Preparing for GSSoC 2026</h3>
 
 <p align="center">
