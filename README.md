@@ -32,5 +32,4 @@ Aspiring open source contributor and engineering student, preparing for **GSSoC 
 
 ⚡ Fun fact  
 - A guy who plays chess, solves rubiks cube under a minute, learning russian as 4th language, types above 50 WPM and goes to gym😊
-⚡ Fun fact  
-- I enjoy learning by building and believe consistency beats talent.
+
