@@ -31,27 +31,17 @@ Engineering Student | Open Source Learner | AI/ML Enthusiast
 - Python, documentation, and web-based repositories  
 
 ### 🤔 I’m looking for help with
-- Writing clean and effective pull requests  
+- Learning Python
 - Understanding real-world open-source standards  
 
 ### 💬 Ask me about
 - Getting started with open source  
 - GitHub basics and contribution workflows  
 
-### 📫 How to reach me
-<p>
-  <a href="https://github.com/Brahmpreett">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/brahmpreet-singh-5b2a5029a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
-  </a>
-</p>
-
 ### 😄 Pronouns
 - He / Him  
 
-### ⚡ Fun fact
+### ⚡ Fun facts
 - Plays chess  
 - Solves a Rubik’s Cube in under a minute  
 - Learning Russian as a fourth language  
