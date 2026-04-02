@@ -3,15 +3,17 @@
 Engineering Student | Open Source Learner | AI/ML Enthusiast
 </h3>
 
+<p align="center">
   <a href="https://brahmpreet.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Brahmpreet%20Singh-orange?style=for-the-badge&logo=portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=portfolio">
   </a>
   <a href="https://www.linkedin.com/in/brahmpreet-singh-5b2a5029a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Brahmpreet%20Singh-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://leetcode.com/u/brahmpreett/">
-    <img src="https://img.shields.io/badge/LeetCode-Brahmpreet%20Singh-yellow?style=for-the-badge&logo=leetcode">
+    <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge">
   </a>
+</p>
 </p>
 
 ---
